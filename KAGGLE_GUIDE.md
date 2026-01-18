@@ -612,4 +612,4 @@ This notebook is provided as-is for the AIDAMS ML competition. Feel free to modi
 
 ---
 
-*Last updated: 2026*
+*Last updated: January 2026*
